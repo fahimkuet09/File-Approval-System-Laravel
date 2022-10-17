@@ -62,7 +62,7 @@
   <img  width="100%"  height="100%"  src="https://i.ibb.co/Lhhd13Y/4.png"/>
 </a>
 
-# Note List Filering
+# Note List Filtering
 <a  href="">
   <img  width="100%"  height="100%"  src="https://i.ibb.co/G07qjGz/6.png"/>
 </a>

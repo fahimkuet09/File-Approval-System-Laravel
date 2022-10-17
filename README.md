@@ -33,20 +33,20 @@
 
 # Inbox
 <a  href="">
-  <img  width="50%"  height="50%"  src="https://i.ibb.co/LhFN4XH/3.png"/>
+  <img  width="100%"  height="100%"  src="https://i.ibb.co/LhFN4XH/3.png"/>
 </a>
 
 # Outbox
 <a  href="">
-  <img  width="50%"  height="50%"  src="https://i.ibb.co/MV8LYns/5.png"/>
+  <img  width="100%"  height="100%"  src="https://i.ibb.co/MV8LYns/5.png"/>
 </a>
 
 # View Note Details Information
 <a  href="">
-  <img  width="50%"  height="50%"  src="https://i.ibb.co/Lhhd13Y/4.png"/>
+  <img  width="100%"  height="100%"  src="https://i.ibb.co/Lhhd13Y/4.png"/>
 </a>
 
 # Note List Filering
 <a  href="">
-  <img  width="50%"  height="50%"  src="https://i.ibb.co/G07qjGz/6.png"/>
+  <img  width="100%"  height="100%"  src="https://i.ibb.co/G07qjGz/6.png"/>
 </a>

@@ -21,6 +21,11 @@
   <img  width="100%"  height="100%"  src="https://i.ibb.co/nrVsCD2/2.png"/>
 </a>
 
+# New User Creation
+<a  href="">
+  <img  width="100%"  height="100%"  src="https://i.ibb.co/ncjrpJX/9.png"/>
+</a>
+
 # File Creation
 <a  href="">
   <img  width="50%"  height="50%"  src="https://i.ibb.co/SyWfb35/8.png"/>

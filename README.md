@@ -28,12 +28,12 @@
 **Test Repo :**
 # Home Page
 <a  href="">
-  <img  width="100%"  height="100%"  src="https://i.ibb.co/37JZRkC/Untitled-1.jpg"/>
+  <img  width="80%"  height="80%"  src="https://i.ibb.co/37JZRkC/Untitled-1.jpg"/>
 </a>
 
 # Dashboard
 <a  href="">
-  <img  width="100%"  height="100%"  src="https://i.ibb.co/LtqJbTV/dashboard-panel.png"/>
+  <img  width="80%"  height="80%"  src="https://i.ibb.co/LtqJbTV/dashboard-panel.png"/>
 </a>
 
 # New User Creation
@@ -58,20 +58,20 @@
 
 # Inbox
 <a  href="">
-  <img  width="100%"  height="100%"  src="https://i.ibb.co/7GhHzM6/inbox.png"/>
+  <img  width="80%"  height="80%"  src="https://i.ibb.co/7GhHzM6/inbox.png"/>
 </a>
 
 # Outbox
 <a  href="">
-  <img  width="100%"  height="100%"  src="https://i.ibb.co/VYTTx8V/outbox.png"/>
+  <img  width="80%"  height="80%"  src="https://i.ibb.co/VYTTx8V/outbox.png"/>
 </a>
 
 # View Note Details Information
 <a  href="">
-  <img  width="100%"  height="100%"  src="https://i.ibb.co/41dsP4j/MD-PANEL.png"/>
+  <img  width="80%"  height="80%"  src="https://i.ibb.co/41dsP4j/MD-PANEL.png"/>
 </a>
 
 # Note List Filtering
 <a  href="">
-  <img  width="100%"  height="100%"  src="https://i.ibb.co/r4Gf5n3/note-list-filtering.png"/>
+  <img  width="80%"  height="80%"  src="https://i.ibb.co/r4Gf5n3/note-list-filtering.png"/>
 </a>

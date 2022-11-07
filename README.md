@@ -2,16 +2,19 @@
 
 # Web Application Details Features 
 - Complete web application with a dynamic service section.
-- 4 types of user( Normal User, HOD, Managing Director, Admin)
-- Admin can add and update user, Department and File .
-- HOD can add new File and set the Approval flow where the File will go.
+- There are five(5) types of user( Normal User, HOD, Managing Director, Board Member, Admin)
+- Admin can add, edit user.
+- Admin can add, edit Department.
+- HOD can create new File and set the Approval flow where the File will go.
 - USER Can add new note under the File.
-- when incoming a new note user will show the incoming note in INBOX.
+- User can show the incoming note in Inbox .Then he/she takes action on that note. Then he/she forwards
+   the note to the next person in approval flow.
 - After Forwarding the note,  note  will go to the next approval person.
 - FinallY Managing Director can Approve or Reject or forwarding the note.
 - Then note will go to the Accounts Section for final clearance.
-- User can add new request, template for File Process.
-- Note list filtering option in Admin , HOD AND Managing DIRECTOR Panel.
+- User can add new Query, Template in the file Process.
+- All Note list filtering option in Admin , HOD AND Managing DIRECTOR Panel.
+- Report
 
 ###
 # Key Technology

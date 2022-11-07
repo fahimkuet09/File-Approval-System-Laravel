@@ -28,12 +28,12 @@
 **Test Repo :**
 # Home Page
 <a  href="">
-  <img  width="100%"  height="100%"  src="https://i.ibb.co/0qxY8pd/1.png"/>
+  <img  width="100%"  height="100%"  src="https://i.ibb.co/37JZRkC/Untitled-1.jpg"/>
 </a>
 
 # Dashboard
 <a  href="">
-  <img  width="100%"  height="100%"  src="https://i.ibb.co/N6h4PLf/dashboard.png"/>
+  <img  width="100%"  height="100%"  src="https://i.ibb.co/LtqJbTV/dashboard-panel.png"/>
 </a>
 
 # New User Creation

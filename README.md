@@ -38,12 +38,12 @@
 
 # New User Creation
 <a  href="">
-  <img  width="100%"  height="100%"  src="https://i.ibb.co/bQTWj4q/user-creation.png"/>
+  <img  width="70%"  height="70%"  src="https://i.ibb.co/bQTWj4q/user-creation.png"/>
 </a>
 
 # Department Creation
 <a  href="">
-  <img  width="100%"  height="100%"  src="https://i.ibb.co/4SMgYB5/add-dept.png"/>
+  <img  width="50%"  height="50%"  src="https://i.ibb.co/4SMgYB5/add-dept.png"/>
 </a>
 
 # File Creation

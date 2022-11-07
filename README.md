@@ -43,17 +43,17 @@
 
 # File Creation
 <a  href="">
-  <img  width="50%"  height="50%"  src="https://i.ibb.co/SyWfb35/8.png"/>
+  <img  width="50%"  height="50%"  src="https://i.ibb.co/SfRxv5m/add-new-file.png"/>
 </a>
 
 # Note Creation
 <a  href="">
-  <img  width="50%"  height="50%"  src="https://i.ibb.co/WKWrR6M/7.png"/>
+  <img  width="50%"  height="50%"  src="https://i.ibb.co/XVPDpNt/add-new-note.png"/>
 </a>
 
 # Inbox
 <a  href="">
-  <img  width="100%"  height="100%"  src="https://i.ibb.co/LhFN4XH/3.png"/>
+  <img  width="100%"  height="100%"  src="https://i.ibb.co/7GhHzM6/inbox.png"/>
 </a>
 
 # Outbox
@@ -63,10 +63,10 @@
 
 # View Note Details Information
 <a  href="">
-  <img  width="100%"  height="100%"  src="https://i.ibb.co/Lhhd13Y/4.png"/>
+  <img  width="100%"  height="100%"  src="https://i.ibb.co/41dsP4j/MD-PANEL.png"/>
 </a>
 
 # Note List Filtering
 <a  href="">
-  <img  width="100%"  height="100%"  src="https://i.ibb.co/G07qjGz/6.png"/>
+  <img  width="100%"  height="100%"  src="https://i.ibb.co/r4Gf5n3/note-list-filtering.png"/>
 </a>
